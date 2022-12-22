@@ -1,0 +1,2 @@
+# iinfo
+Info installation manager
