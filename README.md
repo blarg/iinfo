@@ -13,4 +13,4 @@ want them to.
 * `infogen.sh` : info generator
 * `mangen.sh` : manual page generator
 
-Source doc can be found [here](doc/index.html).
+Source doc can be found [here](https://blarg.github.io/iinfo).
